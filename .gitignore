@@ -1,0 +1,20 @@
+*
+!.gitignore
+
+# sub directories
+!*/
+
+# golang includes
+!*.go
+!*.mod
+
+# helpers
+!*.sh
+!*.bat
+
+# allow embeded images
+!*.jpg
+!*.png
+
+# licenses
+!LICENSE
