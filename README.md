@@ -23,6 +23,7 @@ chmod +x ValiantProxy
 ___
 ### Optional
 These steps only matter if ValiantProxy is running on the **SAME** server as the real server. If ValiantProxy is running on a different server, these steps do not apply.
+
 5. We should limit the access to the real server to only connections from the proxy, we can do this by adding a firewall rule.
 
 Run the following command to allow only incoming connections from the ValiantProxy:
